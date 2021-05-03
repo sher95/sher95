@@ -10,7 +10,7 @@ Skills: Python / Django / Java / servlet
 - 🌱 I’m currently learning DevOps engineering 
 
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/sher95)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/www.linkedin.com/in/sherzod-makhmudov-073aba150//)  
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/sher95)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/sherzod-makhmudov-073aba150)  
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sher95)](https://github.com/anuraghazra/github-readme-stats)
 
