@@ -6,7 +6,7 @@ I’m Sherzad from Tashkent, and I'm a backend developer and DevOps engineer, A 
 
 Skills: Python / Django / Java / servlet
 
-- 🔭 I’m currently working on Anor bank as a tester. 
+- 🔭 I’m currently working on Anor bank as a QA engineer. 
 - 🌱 I’m currently learning DevOps engineering 
 
 
