@@ -2,7 +2,7 @@
 #### Backend developer and DevOps engineer
 ![Backend developer and DevOps engineer](https://media-exp1.licdn.com/dms/image/C4D16AQEfX-ZUtHPi1Q/profile-displaybackgroundimage-shrink_200_800/0/1612440085653?e=1625702400&v=beta&t=c9d7zI0eK2yGhThD3DLOIVV2DMptjiq76LU6eXXi8Fw)
 
-I’m Sherzad from Tashkent, and I'm a backend developer and DevOps engineer, A especially work with Python and Java.
+I’m Sherzad from Tashkent, and I'm a backend developer, QA engineer and being DevOps engineer, A especially work with Python and Java.
 
 Skills: Python / Django / Java / servlet
 
