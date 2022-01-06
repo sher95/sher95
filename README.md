@@ -4,7 +4,7 @@
 
 I’m Sherzad from Tashkent, and I'm a backend developer, QA engineer and being DevOps engineer, A especially work with Python and Java.
 
-Skills: Python / Django / Java / servlet
+Skills: Python / Django / Java / Automation / Appium / Selenium / Manual testing /
 
 - 🔭 I’m currently working at Anor bank as a QA engineer. 
 - 🌱 I’m currently learning DevOps engineering 
