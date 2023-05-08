@@ -4,10 +4,10 @@
 
 I’m Sherzad from Tashkent, and I'm a backend developer, QA engineer and being DevOps engineer, A especially work with Python and Java.
 
-Skills: Python / Django / Java / Automation / Appium / Selenium / Manual testing /
+Skills: Python / C / Java / Automation / Appium / Selenium / Pytest/ Postman / JMeter / Manual testing /
 
-- 🔭 I’m currently working at Anor bank as a QA engineer. 
-- 🌱 I’m currently learning DevOps engineering 
+- 🔭 I’m currently working on improve skills in AQA engineer. 
+- 🌱 I’m currently learning Swift
 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/sher95)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/sherzod-makhmudov-073aba150)  
