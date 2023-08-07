@@ -6,7 +6,7 @@ I’m Sherzod from Tashkent, and I'm a QA engineer and being Architecture engine
 Skills: Python / C / Java / Automation / Appium / Selenium / Pytest/ Postman / JMeter / Manual testing /
 
 - 🔭 I’m currently working on improve skills in AQA engineer. 
-- 🌱 I’m currently learning Swift
+- 🌱 I’m currently learning Data Analytics
 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/sher95)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/sherzod-makhmudov-073aba150)  
