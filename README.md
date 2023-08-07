@@ -1,6 +1,5 @@
 ### Hi there 👋, my name is Makhmudov Sherzod
 #### Software Development Engineer in Test
-![Software Development Engineer in Test]
 
 I’m Sherzod from Tashkent, and I'm a QA engineer and being Architecture engineer, A especially work with Python.
 
